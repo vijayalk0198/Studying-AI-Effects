@@ -20,6 +20,8 @@ Key concepts include regression analysis, ANOVA, correlation, and t-tests. These
 A quantitative, cross-sectional survey design was implemented for this study. Independent and dependent variables were identified from the collected data, with relevant variables selected for each hypothesis to perform appropriate statistical tests. Data collected via SurveyMonkey was initially loaded and explored in Excel to ensure validity and check for any necessary cleaning or preprocessing. Once prepared, the data was loaded into SPSS, where each statistical test was conducted.
 To analyze the data, methods such as regression analysis, ANOVA, correlation, and t-tests were employed. These statistical techniques are foundational in marketing research, providing robust tools for extracting meaningful insights from complex datasets.
 
+![Hypothesis Statements](hypothesisTable.png)
+
 ## Results  
 - **H1**: Understanding capability significantly affects AI satisfaction (**R² = 0.301**, **β = 0.281**, **p = 0.033**).  
 - **H2**: Empathy correlates with AI satisfaction (**rs = 0.415**, **p < 0.001**).  
